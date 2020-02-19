@@ -6,7 +6,7 @@ namespace TestSourceTree
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Lisa Hello");
             Console.WriteLine("Tai Hello!");
             Console.ReadKey();
         }
